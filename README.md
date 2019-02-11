@@ -17,3 +17,4 @@
 4. 点击 “检索测试” 按钮，正常情况下，会在界面上绘制一个数据窗口出来。
    这里做的比较简单，没有设置滚动条之类，数据量大会显示不全。
 
+![image](https://github.com/liujunsong68922/webdw2.0-VB/raw/master/webdw2.0_VB.png)
